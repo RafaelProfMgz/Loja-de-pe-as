@@ -45,5 +45,13 @@ O aplicativo oferece uma interface interativa ao usuário, permitindo acesso fá
 ### Cadastro de Clientes
 ![Cadastro de Clientes](https://github.com/RafaelProfMgz/Loja-de-pe-as/assets/154349177/ce4c300d-dc40-488d-944b-4d7096097c5d)
 
+### Relatório de produtos
+![relatorio de produtos](https://github.com/RafaelProfMgz/Loja-de-pe-as/assets/154349177/70888bf4-3ba3-4fb8-8222-45bbb1879457)
+
+### Relatório de Clientes
+![relatorio de cleintes](https://github.com/RafaelProfMgz/Loja-de-pe-as/assets/154349177/0fe96d9c-3dab-46e7-b2af-cdf945598638)
+
 ### Menu Principal
 ![Menu Principal](https://github.com/RafaelProfMgz/Loja-de-pe-as/assets/154349177/d810bfd8-de93-499c-b778-7e1d3cc71715)
+
+
